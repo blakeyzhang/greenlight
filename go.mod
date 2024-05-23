@@ -1,5 +1,5 @@
 module greenlight.lineway.site
 
-go 1.21.0
+go 1.21
 
 require github.com/julienschmidt/httprouter v1.3.0 // indirect
